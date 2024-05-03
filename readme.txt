@@ -1,4 +1,4 @@
-# Project Name
+#Stream Ollama LLama3
 
 This project contains a Streamlit-based application that integrates with Ollama, a Large Language Model (LLM) platform. It allows users to enter prompts and get generated responses from Ollama.
 
